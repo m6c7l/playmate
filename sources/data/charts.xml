@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<charts>
+
+	<chart>
+		<name>Aegean</name>
+		<file>aegean.png</file>
+		<references>
+			<point x="41" y="62">
+				<lat>+37</lat>
+				<lon>+26.3</lon>
+			</point>
+			<point x="1528" y="952">
+				<lat>+35.7</lat>
+				<lon>+29</lon>
+			</point>
+		</references>
+		<color>
+			<land r="255" g="240" b="195" />
+			<water r="105" g="185" b="225" />
+		</color>
+		<magnifier>
+			<min>0.4</min>
+			<max>200.0</max>
+		</magnifier>
+	</chart>
+	
+	<chart>
+		<name>English Channel</name>
+		<file>channel.png</file>
+		<references>
+			<point x="61" y="31">
+				<lat>+50.4</lat>
+				<lon>-4.6</lon>
+			</point>
+			<point x="1496" y="848">
+				<lat>+49.3</lat>
+				<lon>-1.6</lon>
+			</point>
+		</references>
+		<color>
+			<land r="255" g="240" b="195" />
+			<water r="105" g="185" b="225" />
+		</color>
+		<magnifier>
+			<min>0.4</min>
+			<max>200.0</max>
+		</magnifier>
+	</chart>
+	
+	<chart>
+		<name>Skagerrak</name>
+		<file>skagerrak.png</file>
+		<references>
+			<point x="26" y="16">
+				<lat>+58.5</lat>
+				<lon>+6.5</lon>
+			</point>
+			<point x="1522" y="915">
+				<lat>+56.9</lat>
+				<lon>+11.5</lon>
+			</point>
+		</references>
+		<color>
+			<land r="255" g="240" b="195" />
+			<water r="105" g="185" b="225" />
+		</color>
+		<magnifier>
+			<min>0.4</min>
+			<max>200.0</max>
+		</magnifier>
+	</chart>
+
+	<chart>
+		<name>Bornholm</name>
+		<references>
+			<point>
+				<lat>+55.00</lat>
+				<lon>+16.50</lon>
+			</point>
+			<point>
+				<lat>+55.50</lat>
+				<lon>+15.25</lon>
+			</point>
+		</references>
+		<color>
+			<water r="105" g="185" b="225" />
+		</color>
+		<magnifier>
+			<min>0.4</min>
+			<max>200.0</max>
+		</magnifier>
+	</chart>
+	
+	<chart>
+		<name>Pacific</name>
+		<references>
+			<point>
+				<lat>-56.00</lat>
+				<lon>+178</lon>
+			</point>
+			<point>
+				<lat>-57.00</lat>
+				<lon>-178</lon>
+			</point>
+		</references>
+		<color>
+			<water r="105" g="185" b="225" />
+		</color>
+		<magnifier>
+			<min>0.25</min>
+			<max>200.0</max>
+		</magnifier>
+	</chart>
+	
+	<chart>
+		<name>World map</name>
+		<file>world.png</file>
+		<references>
+			<point x="64" y="340">
+				<lat>+60</lat>
+				<lon>-165</lon>
+			</point>
+			<point x="4146" y="1783">
+				<lat>-40</lat>
+				<lon>+175</lon>
+			</point>
+		</references>
+		<color>
+			<land r="255" g="240" b="195" />
+			<water r="105" g="185" b="225" />
+		</color>
+		<magnifier>
+			<min>0.25</min>
+			<max>3000.0</max>
+		</magnifier>
+	</chart>
+	
+</charts>

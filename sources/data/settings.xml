@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<settings>
+  <environment>
+    <value_current_drift>0</value_current_drift>
+    <value_acoustic_range>30000</value_acoustic_range>
+    <value_current_set>0</value_current_set>
+    <value_visual_range>16000</value_visual_range>
+  </environment>
+  <unit>
+    <value_speed>m/s</value_speed>
+    <value_height>m</value_height>
+    <value_length>m</value_length>
+  </unit>
+  <asset>
+    <show_motion_traces>false</show_motion_traces>
+    <show_motion_vectors>false</show_motion_vectors>
+    <value_motion_vector>6 min</value_motion_vector>
+    <value_motion_trace>30 min</value_motion_trace>
+  </asset>
+</settings>
